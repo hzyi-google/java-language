@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.99.4](https://www.github.com/googleapis/java-language/compare/v1.99.3...v1.99.4) (2020-04-01)
+
+
+### Dependencies
+
+* update dependency com.google.api:api-common to v1.9.0 ([#94](https://www.github.com/googleapis/java-language/issues/94)) ([dc4a66f](https://www.github.com/googleapis/java-language/commit/dc4a66f0cc2b1af2760126269fdbb4c6ec776aa2))
+
 ### [1.99.3](https://www.github.com/googleapis/java-language/compare/v1.99.2...v1.99.3) (2020-03-10)
 
 
